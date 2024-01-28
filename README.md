@@ -10,3 +10,7 @@ Projeto de estudo apresentado no curso Clean Architecture e Clean Code com .Net 
 
 -Query personalizada<br>
 
+-Melhorias Teste Unitario<br>
+
+...
+
